@@ -13,9 +13,14 @@ function Navbar(props) {
             path:"/",
             icon:faHome
         },
+        // {
+        //     name: "Recipe",
+        //     path:"/recipes",
+        //     icon:faList
+        // },
         {
-            name: "Recipe",
-            path:"/recipes",
+            name: "Popular",
+            path:"/popular",
             icon:faList
         },
         {

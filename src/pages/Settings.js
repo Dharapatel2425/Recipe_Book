@@ -110,7 +110,7 @@ function Settings(props) {
         setSettings(_settings)
     }
     return (
-        <div>
+        <div className="container main">
             <div className='section d-block'>
                 <h2> Preferred Theme</h2>
                 <div className='option-container'>

@@ -80,7 +80,7 @@ function Recipes() {
     ].sort(() => Math.random() - 0.5)
 
  return (
-    <div>
+    <div className="container main">
         <PreviousSearche/>
         <div className='recipes-container'>
             {recipes.map((recipe,index) => (

@@ -8,7 +8,7 @@ function Footer(props) {
                 <p>RecipeBook is a place where you can please your soul and
                     tummy with delicious food recipes of all cuisine.
                     And our service is absolutely free.So start exploring now.</p>
-                <p>&copy; 2022| All Rights Reserved</p>
+                <p>&copy; 2019| All Rights Reserved</p>
             </div>
             <div className='footer-section'>
                 <p className='title'>Contact Us</p>

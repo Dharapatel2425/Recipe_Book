@@ -6,7 +6,7 @@ import ChiefSection from "../components/ChiefSection";
 
 function Home(props) {
     return (
-        <div>
+        <div className="container main">
             <MainSection/>
             <ImproveSection/>
             <ChiefSection/>
